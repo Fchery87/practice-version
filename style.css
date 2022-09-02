@@ -1,7 +1,8 @@
 /* add code here to make your image 300px square */
 img {
     height: 300px;
-    width: 300px;
+    border-radius: 25px;
+    border: 3px solid aquamarine;
 }
 
 /* add code here to change the color and font family of your name/title */
@@ -17,4 +18,8 @@ h1 {
 
 ol {
     color: darkgoldenrod;
+}
+
+#qa {
+    color: (11, 135, 184);
 }
